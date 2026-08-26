@@ -1,0 +1,9 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/KaviDJ02/config-server.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/KaviDJ02/eureka-server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/KaviDJ02/api-gateway.git
